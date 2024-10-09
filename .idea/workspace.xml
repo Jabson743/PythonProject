@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17c31b5a-340d-46c2-97c9-ddaa24ccf701" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/techBlazersPythonProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/arraysort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/bankaccount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/inversearray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/loancontract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/personalpractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/playground2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/playground3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/returntype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/television.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practices/validemail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/play_ground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_array_inverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_array_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_bank_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_loancontract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_playground2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_playground3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_return_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_television.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_validemail.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kwR5NR7htRNLDNGDLEGZ07Ez00" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Dictionary.TestKeyCube.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestBankAccount.TestBankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestBankAccount.TestBankAccount.test_that_account_can_deposit.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestEqualString.TestKeyCube.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestJavaScriptArray.TestJavaScriptArray.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestJavaScriptArray.TestJavaScriptArray.test_JavaScriptArray_result.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for TestTask1.TestTask1.test_that_can_check_largest_odd_number_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_array_inverse.TestArrayInverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_array_sort.TestArraySort.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_array_sort.TestArraySort.test_array_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bank_account.TestBankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bank_account.TestBankAccount.test_that_account_balance_is_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bank_account.TestBankAccount.test_that_account_can_deposit.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bank_account.TestBankAccount.test_that_account_can_withdraw.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bank_account.TestBankAccount.test_that_account_cannot_deposit_negative_amount.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bank_account.TestBankAccount.test_that_account_cannot_withdraw_negative_amount.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bank_account.TestBankAccount.test_that_account_cannot_withdraw_over_draft.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bank_account.TestBankAccount.test_that_account_creation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_bank_account.TestBankAccount.test_that_can_be_created.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_loancontract.TestLoanContract.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground2.TestPlayground2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground2.TestPlayground2.test_playground2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground2.TestPlayground2.test_that_character_can_be_swapped.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground3.TestPlayground3.test_playground3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playground3.TestPlayground3.test_that_the_middle_can_be_divided_equally_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_return_type.TestReturnType.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_return_type.TestReturnType.test_return_type.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_return_type.TestReturnType.test_that_characters_can_be_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_return_type.TestReturnType.test_that_letters_can_be_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_return_type.TestReturnType.test_that_letters_can_exists_twice.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_return_type.TestReturnType.test_that_letters_can_hold_multiple_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_television.TestTelevision.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_television.TestTelevision.test_that_television_can_be_turned_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_television.TestTelevision.test_that_television_can_be_turned_on.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_television.TestTelevision.test_that_television_can_get_channel.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_television.TestTelevision.test_that_television_can_set_channel.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_television.TestTelevision.test_that_television_exist.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_television.TestTelevision.test_that_television_is_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_television.TestTelevision.test_that_television_is_on.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_validemail.TestValidemail.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_validemail.TestValidemail.test_that_email_is_not_valid.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_validemail.TestValidemail.test_that_email_is_valid.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_validemail.TestValidemail.test_validemail.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in TestBankAccount.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in TestEqualString.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in TestJavaScriptArray.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_array_inverse.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_bank_account.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_playground2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_return_type.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassTask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StudentGrade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TestBankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TestEqualString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.employee.executor&quot;: &quot;Run&quot;,
+    &quot;Python.equalstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.javascriptarray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.personalpractice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.returntype.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testequalstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.validemail.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for test_television.TestTelevision">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="techBlazersPythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_loancontract.TestLoanContract" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="techBlazersPythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_loancontract.TestLoanContract&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_television.TestTelevision" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="techBlazersPythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_television.TestTelevision&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_television.TestTelevision.test_that_television_can_get_channel" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="techBlazersPythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_television.TestTelevision.test_that_television_can_get_channel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_television.TestTelevision.test_that_television_can_set_channel" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="techBlazersPythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_television.TestTelevision.test_that_television_can_set_channel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_television.TestTelevision.test_that_television_exist" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="techBlazersPythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_television.TestTelevision.test_that_television_exist&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_television.TestTelevision" />
+        <item itemvalue="Python tests.Python tests for test_loancontract.TestLoanContract" />
+        <item itemvalue="Python tests.Python tests for test_television.TestTelevision.test_that_television_can_set_channel" />
+        <item itemvalue="Python tests.Python tests for test_television.TestTelevision.test_that_television_can_get_channel" />
+        <item itemvalue="Python tests.Python tests for test_television.TestTelevision.test_that_television_exist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.428" />
+        <option value="bundled-python-sdk-80e8e15d2b92-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17c31b5a-340d-46c2-97c9-ddaa24ccf701" name="Changes" comment="" />
+      <created>1724192471666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724192471666</updated>
+      <workItem from="1724192481349" duration="3064000" />
+      <workItem from="1724196055697" duration="16342000" />
+      <workItem from="1724235399975" duration="2940000" />
+      <workItem from="1724356543528" duration="1986000" />
+      <workItem from="1724444057227" duration="1071000" />
+      <workItem from="1724447876542" duration="5238000" />
+      <workItem from="1724465938440" duration="6460000" />
+      <workItem from="1724473557407" duration="358000" />
+      <workItem from="1724473959696" duration="158000" />
+      <workItem from="1724474398150" duration="1794000" />
+      <workItem from="1724794987591" duration="7792000" />
+      <workItem from="1724879917052" duration="45000" />
+      <workItem from="1724880329997" duration="56000" />
+      <workItem from="1724883206529" duration="7267000" />
+      <workItem from="1724960148434" duration="1610000" />
+      <workItem from="1724965135373" duration="3422000" />
+      <workItem from="1725159739639" duration="5489000" />
+      <workItem from="1725663201991" duration="30186000" />
+      <workItem from="1726697223465" duration="242000" />
+      <workItem from="1726697488887" duration="3610000" />
+      <workItem from="1726719851424" duration="10310000" />
+      <workItem from="1726954790869" duration="23679000" />
+      <workItem from="1727997688435" duration="9508000" />
+      <workItem from="1728038832390" duration="15842000" />
+      <workItem from="1728267888050" duration="2586000" />
+      <workItem from="1728271151837" duration="812000" />
+      <workItem from="1728496391748" duration="1613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_bank_account.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_return_type.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_Practices/playground3.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_playground3.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_television.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_television.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_television.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$StudentGrade.coverage" NAME="StudentGrade Coverage Results" MODIFIED="1724448105015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$employee.coverage" NAME="employee Coverage Results" MODIFIED="1728039839854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Practices" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$BankAccount.coverage" NAME="BankAccount Coverage Results" MODIFIED="1724451254928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$equalstring.coverage" NAME="equalstring Coverage Results" MODIFIED="1724815341111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Tasks" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$playground.coverage" NAME="playground Coverage Results" MODIFIED="1725700555636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Practices" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$playground3.coverage" NAME="playground3 Coverage Results" MODIFIED="1725937106130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Practices" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$.coverage" NAME=" Coverage Results" MODIFIED="1728269397622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$ClassTask.coverage" NAME="ClassTask Coverage Results" MODIFIED="1724207819595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$javascriptarray.coverage" NAME="javascriptarray Coverage Results" MODIFIED="1724928734162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Tasks" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1726699197251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1724474013597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$TestEqualString.coverage" NAME="TestEqualString Coverage Results" MODIFIED="1724816097431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$task.coverage" NAME="task Coverage Results" MODIFIED="1726713752681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Practices" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$testequalstring.coverage" NAME="testequalstring Coverage Results" MODIFIED="1724815211794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$Task2.coverage" NAME="Task2 Coverage Results" MODIFIED="1724207166356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$validemail.coverage" NAME="validemail Coverage Results" MODIFIED="1726722209190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Practices" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1724813427360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$returntype.coverage" NAME="returntype Coverage Results" MODIFIED="1725675722212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Practices" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$personalpractice.coverage" NAME="personalpractice Coverage Results" MODIFIED="1727126226400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Practices" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$TestBankAccount.coverage" NAME="TestBankAccount Coverage Results" MODIFIED="1724216000858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/techBlazersPythonProjects$playground2.coverage" NAME="playground2 Coverage Results" MODIFIED="1725933705585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Practices" />
+  </component>
+</project>
